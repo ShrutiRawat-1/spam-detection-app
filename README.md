@@ -2,7 +2,7 @@
 
 Machine learning web app which classifies a text as Spam or Not Spam
 
-**Live app:** (paste your Streamlit link here)
+**Live app:** https://spam-detect-application.streamlit.app/
 
 ## Working
 1. Cleans the text: lowercase, tokenize, remove stopwords, punctuation
