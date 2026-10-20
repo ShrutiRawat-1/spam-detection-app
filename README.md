@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# Spam Detection App
 
 Machine learning web app which classifies a text as Spam or Not Spam
 
